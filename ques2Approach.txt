@@ -1,0 +1,3 @@
+In this i first calculated the total weight of the apples given in weight vector then , I calculated the amount of weight ram. sham, rahim will have by 
+doing 50/100*total weight i.e 0.5*total weight , 0.3*total weight, 0.2*total weight respectively.
+After this i have sorted weight vector in descending order so that ram will get maximum weight apples first then rest will be distributed accordingly.
